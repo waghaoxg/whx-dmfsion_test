@@ -1,0 +1,39 @@
+MULTI-VIEW STEREO LOG FILE
+--------------------------
+
+Data main path is /home/clickme/compile/mve/data/mve-kermit-20130522
+      Master image:    10
+ Global VS maximum:    20
+   Use color scale:  true
+Global View Selection: 0 1 2 3 5 7 8 9
+Started to process 679 features.
+Processed 611 features, from which 398 succeeded optimization.
+Process queue ...
+Count:        0  filled:      369  Queue:      382
+Count:      923  filled:     1000  Queue:     1082
+Count:     2715  filled:     2000  Queue:     1870
+Count:     4384  filled:     3000  Queue:     2748
+Count:     6246  filled:     4000  Queue:     3513
+Count:     8199  filled:     5000  Queue:     4174
+Count:    10126  filled:     6000  Queue:     4899
+Count:    12278  filled:     7000  Queue:     5566
+Count:    14478  filled:     8000  Queue:     6157
+Count:    16745  filled:     9000  Queue:     6906
+Count:    19010  filled:    10000  Queue:     7472
+Count:    21713  filled:    11000  Queue:     7722
+Count:    24256  filled:    12000  Queue:     8181
+Count:    27261  filled:    13000  Queue:     8255
+Count:    30222  filled:    14000  Queue:     8485
+Count:    33883  filled:    15000  Queue:     8213
+Count:    37571  filled:    16000  Queue:     8035
+Count:    41110  filled:    17000  Queue:     8064
+Count:    44860  filled:    18000  Queue:     7885
+Count:    48605  filled:    19000  Queue:     8000
+Count:    52679  filled:    20000  Queue:     7417
+Count:    57275  filled:    21000  Queue:     6604
+Count:    61921  filled:    22000  Queue:     5627
+Count:    67375  filled:    23000  Queue:     3869
+Count:    70473  filled:    24000  Queue:     3871
+Count:    77904  filled:    25000  Queue:       94
+Filled 25015 pixels, i.e. 32.6 %.
+MVS took 32 seconds.

@@ -1,0 +1,45 @@
+MULTI-VIEW STEREO LOG FILE
+--------------------------
+
+Data main path is /home/clickme/compile/mve/data/mve-kermit-20130522
+      Master image:     7
+ Global VS maximum:    20
+   Use color scale:  true
+Global View Selection: 0 1 2 3 5 8 9 10
+Started to process 679 features.
+Processed 646 features, from which 500 succeeded optimization.
+Process queue ...
+Count:        0  filled:      469  Queue:      491
+Count:      803  filled:     1000  Queue:     1067
+Count:     2358  filled:     2000  Queue:     2115
+Count:     3993  filled:     3000  Queue:     2998
+Count:     5823  filled:     4000  Queue:     3717
+Count:     7758  filled:     5000  Queue:     4419
+Count:     9725  filled:     6000  Queue:     5043
+Count:    11557  filled:     7000  Queue:     5775
+Count:    13522  filled:     8000  Queue:     6470
+Count:    15638  filled:     9000  Queue:     6978
+Count:    17991  filled:    10000  Queue:     7265
+Count:    20411  filled:    11000  Queue:     7607
+Count:    22417  filled:    12000  Queue:     8305
+Count:    24814  filled:    13000  Queue:     8892
+Count:    27621  filled:    14000  Queue:     9092
+Count:    30245  filled:    15000  Queue:     9553
+Count:    32986  filled:    16000  Queue:    10023
+Count:    35880  filled:    17000  Queue:    10549
+Count:    38543  filled:    18000  Queue:    10898
+Count:    41551  filled:    19000  Queue:    11038
+Count:    45304  filled:    20000  Queue:    10697
+Count:    48316  filled:    21000  Queue:    10915
+Count:    52223  filled:    22000  Queue:    10544
+Count:    54910  filled:    23000  Queue:    10860
+Count:    58285  filled:    24000  Queue:    10729
+Count:    62942  filled:    25000  Queue:    10136
+Count:    66917  filled:    26000  Queue:     9662
+Count:    70841  filled:    27000  Queue:     9204
+Count:    74733  filled:    28000  Queue:     8559
+Count:    79715  filled:    29000  Queue:     7118
+Count:    85149  filled:    30000  Queue:     5409
+Count:    92319  filled:    31000  Queue:     1714
+Filled 31378 pixels, i.e. 40.9 %.
+MVS took 49 seconds.

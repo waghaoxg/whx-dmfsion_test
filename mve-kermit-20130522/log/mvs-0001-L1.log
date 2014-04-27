@@ -1,0 +1,49 @@
+MULTI-VIEW STEREO LOG FILE
+--------------------------
+
+Data main path is /home/clickme/compile/mve/data/mve-kermit-20130522
+      Master image:     1
+ Global VS maximum:    20
+   Use color scale:  true
+Global View Selection: 0 2 3 5 7 8 9 10
+Started to process 679 features.
+Processed 633 features, from which 508 succeeded optimization.
+Process queue ...
+Count:        0  filled:      475  Queue:      494
+Count:      791  filled:     1000  Queue:     1077
+Count:     2424  filled:     2000  Queue:     2022
+Count:     4141  filled:     3000  Queue:     2882
+Count:     6028  filled:     4000  Queue:     3474
+Count:     7976  filled:     5000  Queue:     4130
+Count:     9885  filled:     6000  Queue:     4763
+Count:    11776  filled:     7000  Queue:     5442
+Count:    13780  filled:     8000  Queue:     6061
+Count:    16021  filled:     9000  Queue:     6525
+Count:    18425  filled:    10000  Queue:     7017
+Count:    20424  filled:    11000  Queue:     7684
+Count:    22790  filled:    12000  Queue:     8150
+Count:    24729  filled:    13000  Queue:     8872
+Count:    27741  filled:    14000  Queue:     8671
+Count:    30210  filled:    15000  Queue:     9112
+Count:    33106  filled:    16000  Queue:     9360
+Count:    35781  filled:    17000  Queue:     9725
+Count:    37920  filled:    18000  Queue:    10357
+Count:    40673  filled:    19000  Queue:    10746
+Count:    43977  filled:    20000  Queue:    10950
+Count:    46628  filled:    21000  Queue:    11696
+Count:    48913  filled:    22000  Queue:    12421
+Count:    52303  filled:    23000  Queue:    12240
+Count:    54838  filled:    24000  Queue:    12620
+Count:    57773  filled:    25000  Queue:    12740
+Count:    61708  filled:    26000  Queue:    12360
+Count:    65564  filled:    27000  Queue:    12272
+Count:    69217  filled:    28000  Queue:    11979
+Count:    72951  filled:    29000  Queue:    11667
+Count:    77661  filled:    30000  Queue:    10729
+Count:    82077  filled:    31000  Queue:     9982
+Count:    86078  filled:    32000  Queue:     9598
+Count:    90287  filled:    33000  Queue:     8742
+Count:    95949  filled:    34000  Queue:     6586
+Count:   102249  filled:    35000  Queue:     3667
+Filled 35899 pixels, i.e. 46.7 %.
+MVS took 56 seconds.
